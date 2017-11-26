@@ -1,2 +1,6 @@
 # Express-istanbulServer
-Server for sending CoverageJson to express server
+Sends CoverageJson to express-istanbul server
+
+For install run : npm install
+
+For running node index.js or node .
